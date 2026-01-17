@@ -1,7 +1,9 @@
-Project Status
- **Ongoing Learning & Simulation Project**
+This repository contains a SOC lab simulation designed to demonstrate detection and monitoring of a full attack lifecycle in a controlled environment. The lab includes:
 
-This SOC lab is an ongoing hands-on learning project.  
-I am actively performing additional attack simulations against the Ubuntu endpoint and analyzing the resulting logs in Splunk to understand detection patterns, attacker behavior, and SIEM alerting.
+Ubuntu VM (target)
 
-New scenarios will be added as I continue testing, learning, and documenting real-world attack techniques and their corresponding detections.
+Kali Linux VM (attacker)
+
+Splunk Enterprise (log aggregation and alerting)
+
+The project simulates real-world attack scenarios such as port scanning, SSH brute force, data staging, and data exfiltration. Alerts and logs are collected to showcase how a SOC team detects and responds to malicious activity.
