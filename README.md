@@ -1,3 +1,5 @@
+# SOC Lab Simulation
+
 This repository contains a SOC lab simulation designed to demonstrate detection and monitoring of a full attack lifecycle in a controlled environment. The lab includes:
 
 1.Ubuntu VM (target)
